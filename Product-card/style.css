@@ -117,6 +117,8 @@ body {
     transform: translateY(-90px) rotate(-20deg);
 }
 
+
+/* di chuyển div = translate sau khi hover */
 .card:hover .card_title{
     transform: translate(-30px,-72px);
 }
